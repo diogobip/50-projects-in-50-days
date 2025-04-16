@@ -1,0 +1,1 @@
+So in this repository im going to follow a tutorial from Brad Travis in wich I should do 50 projects in 50 days. To be honest, im going to try doing it in less time since each projec is really small. So I want to fast track it while learning Javascript. My main goal is to become more and more efficient at it in order to be job ready in a few months. 
